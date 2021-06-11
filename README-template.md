@@ -14,8 +14,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Overview
    This is solution i made for that challange.
-   Its really an amazing experience and helped me improve my coding skill.
-   And view this in Firefox and Microsoft edge for good looking font and styles.
+   Its really an amazing experience and helped me to improve my coding skill.
 ### The challenge
 
 Users should be able to:
