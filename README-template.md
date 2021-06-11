@@ -13,8 +13,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Author](#author)
 
 ## Overview
-   This is solution i made for that challange.
-   Its really an amazing experience and helped me to improve my coding skill.
+   This is the solution i made for this challange.
+   It helped me to improve my coding skill.
 ### The challenge
 
 Users should be able to:
